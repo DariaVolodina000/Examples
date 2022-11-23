@@ -1,0 +1,15 @@
+C:\study\Examples\example005_IF\else\obj\Debug\net6.0\else.csproj.AssemblyReference.cache
+C:\study\Examples\example005_IF\else\obj\Debug\net6.0\else.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\Examples\example005_IF\else\obj\Debug\net6.0\else.AssemblyInfoInputs.cache
+C:\study\Examples\example005_IF\else\obj\Debug\net6.0\else.AssemblyInfo.cs
+C:\study\Examples\example005_IF\else\obj\Debug\net6.0\else.csproj.CoreCompileInputs.cache
+C:\study\Examples\example005_IF\else\bin\Debug\net6.0\else.exe
+C:\study\Examples\example005_IF\else\bin\Debug\net6.0\else.deps.json
+C:\study\Examples\example005_IF\else\bin\Debug\net6.0\else.runtimeconfig.json
+C:\study\Examples\example005_IF\else\bin\Debug\net6.0\else.dll
+C:\study\Examples\example005_IF\else\bin\Debug\net6.0\else.pdb
+C:\study\Examples\example005_IF\else\obj\Debug\net6.0\else.dll
+C:\study\Examples\example005_IF\else\obj\Debug\net6.0\refint\else.dll
+C:\study\Examples\example005_IF\else\obj\Debug\net6.0\else.pdb
+C:\study\Examples\example005_IF\else\obj\Debug\net6.0\else.genruntimeconfig.cache
+C:\study\Examples\example005_IF\else\obj\Debug\net6.0\ref\else.dll
