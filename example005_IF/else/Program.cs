@@ -4,7 +4,7 @@ if (userName.ToLower() == "Маша")
 {
     Console.WriteLine ("Ого, это же Маша!");
 }
-else 
+else
 {
     Console.Write("Привет, ");
     Console.Write(userName);
